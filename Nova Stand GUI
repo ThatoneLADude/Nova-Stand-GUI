@@ -1,25 +1,3 @@
--- Stand GUI, Jotaros Edition (Not over heaven)        (Everything was tested using
--- Made by FelixRBX123#0735                             Synapse X. Let me know if 
--- DM if you have any suggestions                       the GUI still works without
--- Yes(There will be updates)                           Synapse X, thx !_! <3)
-                                  --NOVA STAND W--
-
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
---♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥  ♥  ♥  ♥  ♥ 
--- ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥ ♥  ♥  ♥  ♥ ♥  ♥ ♥ 
---♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥  ♥  ♥  ♥  ♥ 
--- ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥ ♥  ♥  ♥  ♥ ♥  ♥ ♥
---♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥  ♥  ♥  ♥  ♥ 
--- ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥ ♥  ♥  ♥  ♥ ♥  ♥ ♥
---♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥  ♥  ♥  ♥  ♥ 
--- ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥ ♥  ♥  ♥  ♥ ♥  ♥ ♥
---♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥  ♥  ♥  ♥  ♥ 
--- ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥  ♥ ♥  ♥ ♥  ♥  ♥  ♥ ♥  ♥ ♥
-
-
-
-
-
 loadstring(game:HttpGet("https://icxy.xyz/NovaGui/CreateAScript", true))()
 
 
